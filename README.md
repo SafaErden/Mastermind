@@ -19,7 +19,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-<h3 align="center"> In this project, I built the Battleship game by using ruby. The main goal is to put into practice the main concepts of Object Oriented Programming. Particularly, classes and access to their attributes.</h3>
+<h3 align="center"> In this project, I built the Mastermind game by using ruby. The main goal is to put into practice the main concepts of Object Oriented Programming. Particularly, classes and access to their attributes.</h3>
 
 - If you want to play it online, visit [this repl link](https://repl.it/@SafaErden/Mastermind) to reach and play my Masterming game online.
 
@@ -29,19 +29,19 @@
 
 2- unpack it (winrar recommended)
 
-3- copy its address e.g.: c:\users\you\downloads\battleship
+3- copy its address from your download path
 
 4- open your terminal commandline (powershell in my case)
 
 5- write "cd" and put the address of the game folder
 
-6- now, to run the game, type 'ruby ./lib/play_battleship.rb'
+6- now, to run the game, type 'ruby ./lib/mastermind.rb'
 
 7- Have fun!
 
 <h2>Rules</h2>
 
-You probably already know how to play Mastermind. If you do not know how to play it, please [visit this link](https://en.wikipedia.org/wiki/Mastermind_(board_game)). It's a really simple game, right? That's what most people think. But if you really wrap your brain around it, you'll discover that the battleship isn't quite as simple as you think!
+You probably already know how to play Mastermind. If you do not know how to play it, please [visit this link](https://en.wikipedia.org/wiki/Mastermind_(board_game)). It's a really simple game, right? That's what most people think. But if you really wrap your brain around it, you'll discover that the mastermind isn't quite as simple as you think!
 
 How to Play it...
 
