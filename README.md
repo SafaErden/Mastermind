@@ -1,23 +1,9 @@
 <h3 align="center">Ruby - Mastermind Game</h3>
 
-<div align="center">
-
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/SafaErden/Mastermind/issues)
-[![Made By](https://img.shields.io/badge/Made%20By-Safa%20Erden-brightgreen)](https://github.com/safaerden)
-
-</div>
-
 ---
 
-## 📝 Content
 
-<p align="center">
-<a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#built_using">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#author">Author</a>
-</p>
-
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
 <h3 align="center"> In this project, I built the Mastermind game by using ruby. The main goal is to put into practice the main concepts of Object Oriented Programming. Particularly, classes and access to their attributes.</h3>
 
